@@ -58,10 +58,4 @@ Currently, I'm focused on learning software engineering principles, algorithms, 
 
 ---
 
-## 💭 Favorite Quote
-
-> *"The best way to learn programming is by building projects and never stopping your curiosity."*
-
----
-
 ⭐ Feel free to explore my repositories and follow my learning journey!
