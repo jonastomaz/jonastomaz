@@ -47,8 +47,6 @@ Currently, I'm focused on learning software engineering principles, algorithms, 
 
 ---
 
----
-
 # 🎯 Goals
 
 - 📚 Continuously improve my programming skills
