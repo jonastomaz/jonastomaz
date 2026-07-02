@@ -11,7 +11,7 @@ Currently, I'm focused on learning software engineering principles, algorithms, 
 ## 🌐 Connect with me
 
 <p align="left">
-  <a href="https://github.com/SEU-USUARIO">
+  <a href="https://github.com/jonastomaz">
     <img src="https://img.shields.io/badge/GitHub-JONAS%20TOMAZ-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
