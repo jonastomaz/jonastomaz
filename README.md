@@ -1,16 +1,76 @@
-## Hi there 👋
+# Hi 👋, I'm Jonas Tomaz
 
-<!--
-**jonastomaz/jonastomaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science Student**  
+🇧🇷 Brazil
 
-Here are some ideas to get you started:
+I'm passionate about software development, problem solving, and building practical projects that help me improve my programming skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I'm focused on learning software engineering principles, algorithms, databases, and web development while creating personal projects to strengthen my knowledge.
+
+---
+
+## 🌐 Connect with me
+
+<p align="left">
+  <a href="https://github.com/SEU-USUARIO">
+    <img src="https://img.shields.io/badge/GitHub-JONAS%20TOMAZ-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+## 📚 Currently Learning
+
+- 💻 Computer Science
+- 🧠 Algorithms & Data Structures
+- 🌐 Web Development
+- 🗄️ Databases
+- 🔒 Programming Fundamentals
+- 🚀 Software Development Best Practices
+
+---
+
+# 🛠️ Tech Stack
+
+## 🚀 Main Technologies
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+## 💻 Secondary Technologies
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+# 📊 GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+# 🎯 Goals
+
+- 📚 Continuously improve my programming skills
+- 💡 Develop practical and innovative projects
+- 🚀 Learn new technologies and best practices
+- 🤝 Collaborate on open-source projects
+- 🌱 Grow as a software developer
+
+---
+
+## 💭 Favorite Quote
+
+> *"The best way to learn programming is by building projects and never stopping your curiosity."*
+
+---
+
+⭐ Feel free to explore my repositories and follow my learning journey!
