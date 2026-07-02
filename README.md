@@ -56,7 +56,6 @@ Currently, I'm focused on learning software engineering principles, algorithms, 
 - 💡 Develop practical and innovative projects
 - 🚀 Learn new technologies and best practices
 - 🤝 Collaborate on open-source projects
-- 🌱 Grow as a software developer
 
 ---
 
