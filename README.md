@@ -1,7 +1,6 @@
 # Hi 👋, I'm Jonas Tomaz
 
 🎓 **Computer Science Student**  
-🇧🇷 Brazil
 
 I'm passionate about software development, problem solving, and building practical projects that help me improve my programming skills.
 
