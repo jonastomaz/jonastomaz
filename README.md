@@ -1,24 +1,27 @@
-# Hi 👋, I'm Jonas Tomaz
+Olá 👋, eu sou Jonas Tomaz
 
-🎓 **Computer Science Student**  
+🎓 Estudante de Ciência da Computação
 
-I'm passionate about software development, problem solving, and building practical projects that help me improve my programming skills.
+Sou apaixonado por desenvolvimento de software, resolução de problemas e criação de projetos práticos que me ajudam a evoluir como programador.
 
-Currently, I'm focused on learning software engineering principles, algorithms, databases, and web development while creating personal projects to strengthen my knowledge.
+Atualmente, estou focado em aprender princípios de engenharia de software, algoritmos, bancos de dados e desenvolvimento web, enquanto desenvolvo projetos pessoais para fortalecer meus conhecimentos.
 
 ---
 
-## 🌐 Connect with me
+## 🌐 Conecte-se comigo
 
 <p align="left">
   <a href="https://github.com/jonastomaz">
     <img src="https://img.shields.io/badge/GitHub-JONAS%20TOMAZ-181717?style=for-the-badge&logo=github" />
   </a>
+  <a href="www.linkedin.com/in/jonas-tomaz-483415371"> 
+    <img src="https://img.shields.io/badge/LinkedIn-Jonas%20Tomaz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+  </a>
 </p>
 
 ---
 
-## 📚 Currently Learning
+## 📚 Atualmente estudando
 
 - 💻 Computer Science
 - 🧠 Algorithms & Data Structures
@@ -29,15 +32,13 @@ Currently, I'm focused on learning software engineering principles, algorithms, 
 
 ---
 
-# 🛠️ Tech Stack
-
-## 🚀 Main Technologies
+## 🚀 Principais tecnologias
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-## 💻 Secondary Technologies
+## 💻 Tecnologias secundarias
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -47,7 +48,7 @@ Currently, I'm focused on learning software engineering principles, algorithms, 
 
 ---
 
-# 🎯 Goals
+# 🎯 Objetivos
 
 - 📚 Continuously improve my programming skills
 - 💡 Develop practical and innovative projects
@@ -55,5 +56,3 @@ Currently, I'm focused on learning software engineering principles, algorithms, 
 - 🤝 Collaborate on open-source projects
 
 ---
-
-⭐ Feel free to explore my repositories and follow my learning journey!
