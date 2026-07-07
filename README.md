@@ -1,4 +1,4 @@
-Olá 👋, eu sou Jonas Tomaz
+# Olá 👋, eu sou Jonas Tomaz
 
 🎓 Estudante de Ciência da Computação
 
@@ -14,7 +14,7 @@ Atualmente, estou focado em aprender princípios de engenharia de software, algo
   <a href="https://github.com/jonastomaz">
     <img src="https://img.shields.io/badge/GitHub-JONAS%20TOMAZ-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="www.linkedin.com/in/jonas-tomaz-483415371"> 
+  <a href="[www.linkedin.com/in/jonas-tomaz-483415371](https://www.linkedin.com/in/jonas-tomaz-483415371/)"> 
     <img src="https://img.shields.io/badge/LinkedIn-Jonas%20Tomaz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> 
   </a>
 </p>
