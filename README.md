@@ -11,9 +11,6 @@ Atualmente, estou focado em aprender princípios de engenharia de software, algo
 ## 🌐 Conecte-se comigo
 
 <p align="left">
-  <a href="https://github.com/jonastomaz">
-    <img src="https://img.shields.io/badge/GitHub-JONAS%20TOMAZ-181717?style=for-the-badge&logo=github" />
-  </a>
   <a href="https://www.linkedin.com/in/jonas-tomaz-483415371/"> 
     <img src="https://img.shields.io/badge/LinkedIn-Jonas%20Tomaz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> 
   </a>
@@ -23,12 +20,12 @@ Atualmente, estou focado em aprender princípios de engenharia de software, algo
 
 ## 📚 Atualmente estudando
 
-- 💻 Computer Science
-- 🧠 Algorithms & Data Structures
-- 🌐 Web Development
-- 🗄️ Databases
-- 🔒 Programming Fundamentals
-- 🚀 Software Development Best Practices
+- 💻 Ciência da Computação
+- 🧠 Algoritmos e Estruturas de Dados
+- 🌐 Desenvolvimento Web
+- 🗄️ Bancos de dados
+- 🔒 Fundamentos de Programação
+- 🚀 Melhores práticas de desenvolvimento de software
 
 ---
 
@@ -50,9 +47,7 @@ Atualmente, estou focado em aprender princípios de engenharia de software, algo
 
 # 🎯 Objetivos
 
-- 📚 Continuously improve my programming skills
-- 💡 Develop practical and innovative projects
-- 🚀 Learn new technologies and best practices
-- 🤝 Collaborate on open-source projects
-
+- 📚 Aprimorar continuamente minhas habilidades de programação
+- 💡 Desenvolver projetos práticos e inovadores
+- 🚀 Aprenda novas tecnologias e melhores práticas
 ---
