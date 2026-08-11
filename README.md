@@ -1,6 +1,6 @@
-# 👋 Olá, eu sou Jonas Tomaz
+# Olá, eu sou Jonas Tomaz
 
-## 💻 Desenvolvedor Back-end | Estudante de Ciência da Computação
+# 💻 Desenvolvedor Back-end | Estudante de Ciência da Computação
 
 Sou desenvolvedor back-end e estudante de Ciência da Computação, apaixonado por criar aplicações robustas, escaláveis e bem estruturadas. Gosto de resolver problemas através da programação, aplicando boas práticas de desenvolvimento, arquitetura de software e engenharia de software.
 
@@ -8,7 +8,7 @@ Atualmente, estou aprofundando meus conhecimentos em desenvolvimento de APIs, ba
 
 ---
 
-## 🌐 Conecte-se comigo
+# 🌐 Conecte-se comigo
 <p align="left">
 <a href="https://github.com/jonastomaz" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -20,6 +20,7 @@ Atualmente, estou aprofundando meus conhecimentos em desenvolvimento de APIs, ba
 <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
+
 ---
 
 # 📚 Atualmente estudando
@@ -37,35 +38,38 @@ Atualmente, estou aprofundando meus conhecimentos em desenvolvimento de APIs, ba
 * 🧪 Testes e Boas Práticas de Desenvolvimento
   
 ---
-# 🚀 Stack Principal
+# Stack Principal
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,nodejs,ts,js,express,mysql,sqlite,git,github,postman,vscode"/>
+<img src="https://skillicons.dev/icons?i=java,nodejs,ts,js,express,mysql,sqlite,git,github,vscode"/>
 </p>
 
 ---
-# 💻 Tecnologias Complementares
+
+# Tecnologias Complementares
 <p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,c,python"/>
 </p>
+
 ---
 
-# 🚀 O que estou construindo
+# O que estou construindo
 
 * 🔹 APIs REST utilizando Node.js, Express e TypeScript
 * 🔹 Sistemas utilizando Java orientado a objetos
 * 🔹 Projetos com autenticação JWT
 * 🔹 Integração com bancos de dados relacionais
 * 🔹 Aplicações seguindo princípios SOLID e boas práticas de engenharia de software
+  
 ---
 
-# 🎯 Objetivos
+# Objetivos
 
-* 🚀 Atuar profissionalmente como Desenvolvedor Back-end.
-* 📚 Evoluir continuamente em arquitetura de software e desenvolvimento de APIs.
-* ⚙️ Construir aplicações escaláveis, seguras e de alta qualidade.
-* 🧠 Aprender novas tecnologias e frameworks do ecossistema back-end.
-* 🤝 Contribuir com projetos Open Source e compartilhar conhecimento.
-* 💼 Desenvolver soluções que gerem impacto real para pessoas e empresas.
-* 
+*  Atuar profissionalmente como Desenvolvedor Back-end/Full-stack.
+*  Evoluir continuamente em arquitetura de software e desenvolvimento de APIs.
+*  Construir aplicações escaláveis, seguras e de alta qualidade.
+*  Aprender novas tecnologias e frameworks do ecossistema back-end.
+*  Contribuir com projetos Open Source e compartilhar conhecimento.
+*  Desenvolver soluções que gerem impacto real para pessoas e empresas.
+  
 ---
