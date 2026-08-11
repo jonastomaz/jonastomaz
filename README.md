@@ -1,54 +1,68 @@
-# Olá 👋, eu sou Jonas Tomaz
+# 👋 Olá, eu sou Jonas Tomaz
 
-🎓 Estudante de Ciência da Computação
+## 💻 Desenvolvedor Back-end | Estudante de Ciência da Computação
 
-Sou apaixonado por desenvolvimento de software, resolução de problemas e criação de projetos práticos que me ajudam a evoluir como programador.
+Sou desenvolvedor back-end e estudante de Ciência da Computação, apaixonado por criar aplicações robustas, escaláveis e bem estruturadas. Gosto de resolver problemas através da programação, aplicando boas práticas de desenvolvimento, arquitetura de software e engenharia de software.
 
-Atualmente, estou focado em aprender princípios de engenharia de software, algoritmos, bancos de dados e desenvolvimento web, enquanto desenvolvo projetos pessoais para fortalecer meus conhecimentos.
+Atualmente, estou aprofundando meus conhecimentos em desenvolvimento de APIs, bancos de dados, arquitetura de sistemas e tecnologias voltadas ao ecossistema back-end, desenvolvendo projetos práticos para evoluir continuamente como desenvolvedor.
 
 ---
 
 ## 🌐 Conecte-se comigo
-
 <p align="left">
-  <a href="https://www.linkedin.com/in/jonas-tomaz-483415371/"> 
-    <img src="https://img.shields.io/badge/LinkedIn-Jonas%20Tomaz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> 
-  </a>
+<a href="https://github.com/jonastomaz" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/jonas-tomaz-483415371/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:jonastomaz001@gmail.com">
+<img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
-
 ---
-
-## 📚 Atualmente estudando
-
-- 💻 Ciência da Computação
-- 🧠 Algoritmos e Estruturas de Dados
-- 🌐 Desenvolvimento Web
-- 🗄️ Bancos de dados
-- 🔒 Fundamentos de Programação
-- 🚀 Melhores práticas de desenvolvimento de software
-
+# 📚 Atualmente estudando
+* ☕ Java
+* 🟨 JavaScript
+* 🔷 TypeScript
+* 🌐 Node.js
+* ⚡ Express.js
+* 🗄️ Banco de Dados Relacionais (MySQL e SQLite)
+* 🛠️ SQL
+* 🔐 Autenticação com JWT
+* 📐 Engenharia de Software
+* 🧩 Estruturas de Dados e Algoritmos
+* 🏗️ Arquitetura de Software
+* 🧪 Testes e Boas Práticas de Desenvolvimento
 ---
-
-## 🚀 Principais tecnologias
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-## 💻 Tecnologias secundarias
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
+# 🚀 Stack Principal
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,nodejs,ts,js,express,mysql,sqlite,git,github,postman,vscode"/>
+</p>
 ---
+# 💻 Tecnologias Complementares
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,c,python,linux"/>
+</p>
+---
+# 🚀 O que estou construindo
 
+* 🔹 APIs REST utilizando Node.js, Express e TypeScript
+* 🔹 Sistemas utilizando Java orientado a objetos
+* 🔹 Projetos com autenticação JWT
+* 🔹 Integração com bancos de dados relacionais
+* 🔹 Aplicações seguindo princípios SOLID e boas práticas de engenharia de software
+---
 # 🎯 Objetivos
-
-- 📚 Aprimorar continuamente minhas habilidades de programação
-- 💡 Desenvolver projetos práticos e inovadores
-- 🚀 Aprenda novas tecnologias e melhores práticas
+* 🚀 Atuar profissionalmente como Desenvolvedor Back-end.
+* 📚 Evoluir continuamente em arquitetura de software e desenvolvimento de APIs.
+* ⚙️ Construir aplicações escaláveis, seguras e de alta qualidade.
+* 🧠 Aprender novas tecnologias e frameworks do ecossistema back-end.
+* 🤝 Contribuir com projetos Open Source e compartilhar conhecimento.
+* 💼 Desenvolver soluções que gerem impacto real para pessoas e empresas.
 ---
+# 📈 GitHub Stats
+<p align="center">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=jonastomaz&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonastomaz&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
