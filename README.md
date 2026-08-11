@@ -21,6 +21,7 @@ Atualmente, estou aprofundando meus conhecimentos em desenvolvimento de APIs, ba
 </a>
 </p>
 ---
+
 # 📚 Atualmente estudando
 * ☕ Java
 * 🟨 JavaScript
@@ -34,11 +35,14 @@ Atualmente, estou aprofundando meus conhecimentos em desenvolvimento de APIs, ba
 * 🧩 Estruturas de Dados e Algoritmos
 * 🏗️ Arquitetura de Software
 * 🧪 Testes e Boas Práticas de Desenvolvimento
+  
 ---
 # 🚀 Stack Principal
+
 <p align="left">
 <img src="https://skillicons.dev/icons?i=java,nodejs,ts,js,express,mysql,sqlite,git,github,postman,vscode"/>
 </p>
+
 ---
 # 💻 Tecnologias Complementares
 <p align="left">
@@ -61,8 +65,3 @@ Atualmente, estou aprofundando meus conhecimentos em desenvolvimento de APIs, ba
 * 🤝 Contribuir com projetos Open Source e compartilhar conhecimento.
 * 💼 Desenvolver soluções que gerem impacto real para pessoas e empresas.
 ---
-# 📈 GitHub Stats
-<p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=jonastomaz&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonastomaz&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
