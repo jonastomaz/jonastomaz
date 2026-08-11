@@ -15,10 +15,6 @@ Atualmente, estou aprofundando meus conhecimentos em desenvolvimento de APIs, ba
 </a>
 <a href="https://www.linkedin.com/in/jonas-tomaz-483415371/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:jonastomaz001@gmail.com">
-<img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
 </p>
 
 ---
