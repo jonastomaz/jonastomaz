@@ -46,9 +46,10 @@ Atualmente, estou aprofundando meus conhecimentos em desenvolvimento de APIs, ba
 ---
 # 💻 Tecnologias Complementares
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,c,python,linux"/>
+<img src="https://skillicons.dev/icons?i=html,css,c,python"/>
 </p>
 ---
+
 # 🚀 O que estou construindo
 
 * 🔹 APIs REST utilizando Node.js, Express e TypeScript
@@ -57,11 +58,14 @@ Atualmente, estou aprofundando meus conhecimentos em desenvolvimento de APIs, ba
 * 🔹 Integração com bancos de dados relacionais
 * 🔹 Aplicações seguindo princípios SOLID e boas práticas de engenharia de software
 ---
+
 # 🎯 Objetivos
+
 * 🚀 Atuar profissionalmente como Desenvolvedor Back-end.
 * 📚 Evoluir continuamente em arquitetura de software e desenvolvimento de APIs.
 * ⚙️ Construir aplicações escaláveis, seguras e de alta qualidade.
 * 🧠 Aprender novas tecnologias e frameworks do ecossistema back-end.
 * 🤝 Contribuir com projetos Open Source e compartilhar conhecimento.
 * 💼 Desenvolver soluções que gerem impacto real para pessoas e empresas.
+* 
 ---
