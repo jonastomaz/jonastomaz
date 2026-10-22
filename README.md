@@ -34,7 +34,7 @@
 
 <br>
 
-I'm **Jonas Tomaz**, a Computer Science student at **UEPB** and a developer focused on **Back-end development**.
+I'm **Jonas Tomaz**, a Computer Science student at **UEPB** and a developer focused on **Full-stack development**.
 
 I enjoy building robust and well-structured applications, developing REST APIs, working with relational databases, and applying software engineering best practices to solve real-world problems.
 
