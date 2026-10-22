@@ -30,7 +30,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=650&lines=Hello+World!+I'm+Jonas+Tomaz.;Back-end+Developer+%7C+Computer+Science+Student." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=650&lines=Hello+World!+I'm+Jonas+Tomaz.;Full-stack+Developer+%7C+Computer+Science+Student." />
 
 <br>
 
