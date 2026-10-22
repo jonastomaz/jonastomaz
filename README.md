@@ -43,7 +43,7 @@ I'm constantly improving my skills through hands-on projects, exploring new tech
 <br>
 
 <img src="https://img.shields.io/badge/Computer_Science-111111?style=flat-square&logo=academia&logoColor=22C55E"/>
-<img src="https://img.shields.io/badge/Back--end_Development-111111?style=flat-square&logo=serverfault&logoColor=22C55E"/>
+<img src="https://img.shields.io/badge/Full--stack_Development-111111?style=flat-square&logo=serverfault&logoColor=22C55E"/>
 <img src="https://img.shields.io/badge/Software_Engineering-111111?style=flat-square&logo=codefactor&logoColor=22C55E"/>
 
 </div>
