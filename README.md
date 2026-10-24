@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=900&color=22C55E&center=true&vCenter=true&width=650&lines=%3E+Building+robust+and+scalable+APIs_;%3E+Back-end+%7C+Software+Engineering;%3E+Computer+Science+Student;%3E+Code.+Learn.+Build.+Repeat." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=900&color=22C55E&center=true&vCenter=true&width=650&lines=%3E+Building+robust+and+scalable+APIs_;%3E+Full-stack+%7C+Software+Engineering;%3E+Computer+Science+Student;%3E+Code.+Learn.+Build.+Repeat." />
 
 <br><br>
 
