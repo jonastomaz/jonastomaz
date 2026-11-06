@@ -26,7 +26,7 @@
 
 <br>
 
-<h2>01. / ABOUT ME</h2>
+<h2>01. ABOUT ME</h2>
 
 <div align="center">
 
@@ -48,7 +48,7 @@ I'm constantly improving my skills through hands-on projects, exploring new tech
 
 </div>
 
-<h2>02. / MY TOOLBOX</h2>
+<h2>02. MY TOOLBOX</h2>
 
 <div align="center">
 
@@ -88,7 +88,7 @@ I'm constantly improving my skills through hands-on projects, exploring new tech
 
 <br>
 
-<h2>03. / WHAT I'M BUILDING</h2>
+<h2>03. WHAT I'M BUILDING</h2>
 
 <div align="center">
 
@@ -122,7 +122,7 @@ Exploring relational database modeling, SQL queries, JWT authentication, and bes
 
 <br>
 
-<h2>04. / CURRENT FOCUS</h2>
+<h2>04. CURRENT FOCUS</h2>
 
 <div align="center">
 
