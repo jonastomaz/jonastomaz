@@ -145,22 +145,4 @@ My goal is to build reliable, maintainable, and scalable software while growing 
 
 <br>
 
-<h2>05. / GITHUB ACTIVITY</h2>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonastomaz&layout=compact&theme=transparent&title_color=22C55E&text_color=FFFFFF&border_color=15803D&hide_border=false" />
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:14532D,50:22C55E,100:14532D" width="90%"/>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1500&color=22C55E&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Always+learning.+Always+building.;See+you+in+the+next+commit."/>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:052E16,50:15803D,100:22C55E&height=110&section=footer" width="100%"/>
-
-</div>
